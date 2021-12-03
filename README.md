@@ -19,6 +19,14 @@
 1) Docker
 2) Python 3.8+ (если запускаете из исходников)
 
+<h4>Шаги запуска:</h4>
+<ul>
+  <li>Установить зависисмости с помощью команды <code>yarn</code></li>
+  <li>Запустите приложение с помощью команды <code>yarn start</code></li>
+  <li>(При необходимости) Сборка production билда <code>yarn run build</code> </li>
+</ul>
+
+
 РАЗРАБОТЧИКИ
 
 <h4>Носкин Виктор backend https://t.me/vitek999 </h4>
